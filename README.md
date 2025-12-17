@@ -56,5 +56,18 @@ This project focuses on **real-world data engineering practices**, including con
 ---
 
 ## 📦 Project Structure (Simplified)
-
+YT_ELT/
+├── dags/
+│ ├── api/
+│ ├── datawarehouse/
+│ ├── dataquality/
+│ └── main.py
+├── include/
+│ └── soda/
+├── tests/
+├── docker/
+├── data/
+├── docker-compose.yml
+├── requirements.txt
+└── README.md
 
